@@ -1,12 +1,12 @@
 [
 	//Allies
 	{
-		"name": "United States of America",
-		"leaderName": "Franklin D. Roosevelt",
+		"name": "Соединённые Штаты Америки",
+		"leaderName": "Франклин Д. Рузвельт",
 		"adjective": ["American"],
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Christianity", //Protestantism
-		"personality": "Franklin D. Roosevelt",
+		"personality": "Франклин Д. Рузвельт",
 
 		"startIntroPart1": "Greetings, President Roosevelt. As we all know, you are the 32nd President of the United States, first elected in March 3, 1933. By the 1920s, America have just recently exited the Great War and onwards towards the Great Depression and the Prohibition Period. America was economically bankrupt multiple occasions and the economy managed to return to normal only by 1939, lasting for 10 years. However, due to your 'New Deal' program, the United States have managed to recover economically and get out even stronger than before! However, even after managing to deal with the economical downturn, dark clouds have began to be seen over both Europe and Asia. Another era of conflict is about to begin, and America will once again be the center of it.",
 		"startIntroPart2": "Mr. President, America would require to guide it once more. You have led us out of the Great Depression, and many believed you will lead us into another American Golden Age. Can you build a civilization that can withstand the test of time?",
